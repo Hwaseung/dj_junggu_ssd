@@ -4,16 +4,18 @@
 
 
 # 목차
-[1. notebooks.ipynb](#1-notebooks.ipynb)  
-[2. 이동경로 및 소비패턴 파일_컬럼 정의서.xlsx](#2-이동경로-및-소비패턴-파일_컬럼-정의서.xlsx)  
-[3. 기획안.pdf](#3-기획안.pdf)  
-[4. figures](#4-figures)  
+[1. 전처리완료데이터_정의서.xlsx](#1-전처리완료데이터_정의서.xlsx) 
+[2. notebooks.ipynb](#2-notebooks.ipynb)  
+[3. 이동경로 및 소비패턴 파일_컬럼 정의서.xlsx](#3-이동경로-및-소비패턴-파일_컬럼-정의서.xlsx)  
+[4. 기획안.pdf](#4-기획안.pdf)  
+[5. figures](#5-figures)  
 
 
 # 1. 전처리완료데이터_정의서.xlsx
 
 # 2. notebooks.ipynb
 해당 파일의 색인 순서와 동일하게 작성
+
 ## 0 data & packages
 ### 0-0 코드를 돌린 환경에 대해 정의
 (1) 컴퓨터 환경  
